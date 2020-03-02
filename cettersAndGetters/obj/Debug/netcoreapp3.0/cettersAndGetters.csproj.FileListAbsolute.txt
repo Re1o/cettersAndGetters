@@ -1,0 +1,11 @@
+C:\Users\Reio\source\repos\cettersAndGetters\cettersAndGetters\bin\Debug\netcoreapp3.0\cettersAndGetters.exe
+C:\Users\Reio\source\repos\cettersAndGetters\cettersAndGetters\bin\Debug\netcoreapp3.0\cettersAndGetters.deps.json
+C:\Users\Reio\source\repos\cettersAndGetters\cettersAndGetters\bin\Debug\netcoreapp3.0\cettersAndGetters.runtimeconfig.json
+C:\Users\Reio\source\repos\cettersAndGetters\cettersAndGetters\bin\Debug\netcoreapp3.0\cettersAndGetters.runtimeconfig.dev.json
+C:\Users\Reio\source\repos\cettersAndGetters\cettersAndGetters\bin\Debug\netcoreapp3.0\cettersAndGetters.dll
+C:\Users\Reio\source\repos\cettersAndGetters\cettersAndGetters\bin\Debug\netcoreapp3.0\cettersAndGetters.pdb
+C:\Users\Reio\source\repos\cettersAndGetters\cettersAndGetters\obj\Debug\netcoreapp3.0\cettersAndGetters.csprojAssemblyReference.cache
+C:\Users\Reio\source\repos\cettersAndGetters\cettersAndGetters\obj\Debug\netcoreapp3.0\cettersAndGetters.AssemblyInfoInputs.cache
+C:\Users\Reio\source\repos\cettersAndGetters\cettersAndGetters\obj\Debug\netcoreapp3.0\cettersAndGetters.AssemblyInfo.cs
+C:\Users\Reio\source\repos\cettersAndGetters\cettersAndGetters\obj\Debug\netcoreapp3.0\cettersAndGetters.dll
+C:\Users\Reio\source\repos\cettersAndGetters\cettersAndGetters\obj\Debug\netcoreapp3.0\cettersAndGetters.pdb
